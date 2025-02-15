@@ -1,4 +1,4 @@
-# MarketPlace_Plan_Chairify
+# MarketPlace-Plan-Chairify
 
 # Chairify Platform
 
